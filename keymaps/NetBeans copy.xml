@@ -1,0 +1,9 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="EditorToggleCase" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+</keymap>

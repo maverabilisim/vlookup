@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Group use statements by selected prefix" />
+  </component>
+</application>

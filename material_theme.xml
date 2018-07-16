@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
+    <option name="accentColor" value="ff4081" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="userId" value="5257b28b:163eb9ed8b8:-7fff" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>

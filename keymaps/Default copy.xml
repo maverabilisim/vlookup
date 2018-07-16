@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="GotoSuperMethod" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="PublishGroup.UploadTo" />
+</keymap>
