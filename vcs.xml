@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="D:\web\htdocs\tools" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:/web/htdocs/tools/vlookup" />
+  </component>
 </application>
